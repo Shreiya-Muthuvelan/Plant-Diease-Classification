@@ -15,7 +15,7 @@ This project is a binary image classification model built using deep learning to
 ## 🔄 ML Workflow
 
 1. **Data Collection:**  
-   Dataset sourced from the [PlantVillage dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
+   Dataset sourced from the [PlantVillage dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
 
 2. **Preprocessing:**
    - Images organized into `healthy` and `diseased` categories.
