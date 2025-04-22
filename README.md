@@ -41,7 +41,7 @@ This project is a binary image classification model built using deep learning to
 ## 👩‍💻 Author
 
 **Shreiya**  
-2nd Year CSE Student | ML & Generative AI Enthusiast  
+2nd Year CSE Student | ML & Enthusiast 
 📍 BITS Pilani Dubai Campus  
 🔗 [LinkedIn](https://www.linkedin.com/in/shreiyamuthuvelan)
 
